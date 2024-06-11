@@ -1,4 +1,7 @@
 # Novo teste. Agora vai
 ## Teste para publicar no github
 ## vamos para o sexto commit
-## comando git push 
+#Novos comandos para aprender:
+* comando git push
+* comando git pull
+* comando git fetch
